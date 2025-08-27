@@ -22,10 +22,11 @@ I’m using this repo to track my progress, learn different problem-solving tech
 LeetCode/
 │── Arrays/
 │── Strings/
-│── LinkedList/
+│── LinkedLists/
 │── Trees/
 │── DynamicProgramming/
 │── Graphs/
+│── HashMaps/
 │── ...
 ```
 Each folder contains:
